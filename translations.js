@@ -5457,6 +5457,6 @@ var languages = {
             name:"Mustafa İdeko",
             link:"http://steamcommunity.com/id/mustafaidk/"
         }]
-    }
-}
+            name:"Arda Mutluşahinoğlu"
+            link:'https://m.facebook.com/arda.mutlusahinoglu"
 module.exports = {languages, translations};
